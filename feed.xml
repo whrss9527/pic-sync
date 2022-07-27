@@ -2,6 +2,11 @@
 
 <rss version="2.0">
     <channel>
+
+        <title>WH</title>
+        <link>http://39.99.250.22</link>
+        <description>总描述</description>
+
         <item>
             <title>国内最新新闻0</title>
             <author>吴彦祖0</author>
